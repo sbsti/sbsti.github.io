@@ -1,2 +1,2 @@
 # sbsti.github.io
-Ohjelmistotekniikka
+Ohjelmistotekniikan kurssi
